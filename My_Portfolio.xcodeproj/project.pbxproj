@@ -13,7 +13,6 @@
 		81F06DA421DDA4B200709DAD /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		81F06DA521DDA4B200709DAD /* elements.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = elements.html; sourceTree = "<group>"; };
 		81F06DA621DDA4B300709DAD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		81F06DA721DDA4B300709DAD /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -26,7 +25,6 @@
 				81F06DA421DDA4B200709DAD /* images */,
 				81F06DA621DDA4B300709DAD /* index.html */,
 				81F06DA221DDA4B200709DAD /* LICENSE.txt */,
-				81F06DA721DDA4B300709DAD /* README.txt */,
 			);
 			sourceTree = "<group>";
 		};
