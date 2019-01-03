@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{C0B5F2F8-CB3F-415D-B450-776B9439A5A3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="resume.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
     <Files>
-      <File FileName="experience.html" Line="1" Column="1" />
-      <File FileName="index.html" Line="1" Column="1" />
-      <File FileName="resume.html" Line="1" Column="1" />
+      <File FileName="index.html" Line="70" Column="79" />
+      <File FileName="experience.html" Line="36" Column="12" />
+      <File FileName="projects.html" Line="22" Column="21" />
+      <File FileName="resume.html" Line="71" Column="11" />
       <File FileName="README.md" Line="1" Column="1" />
-      <File FileName="projects.html" Line="1" Column="1" />
       <File FileName="LICENSE.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
