@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C0B5F2F8-CB3F-415D-B450-776B9439A5A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="resume.html">
+    <Files>
+      <File FileName="experience.html" Line="1" Column="1" />
+      <File FileName="index.html" Line="1" Column="1" />
+      <File FileName="resume.html" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="projects.html" Line="1" Column="1" />
+      <File FileName="LICENSE.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.My__Portfolio FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
