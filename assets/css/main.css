@@ -2564,27 +2564,6 @@ input, select, textarea {
 		.icon > .label {
 			display: none;
 		}
-       
-
-.checkbox input[type="checkbox"] {
-    opacity: 0;
-}
-
-input[type=checkbox] {
-    display: none;
-}
-
-.container img {
-    margin: 100px;
-    transition: transform 0.3s ease;
-    cursor: zoom-in;
-}
-
-input[type=checkbox]:checked ~ label > img {
-    transform: scale(2);
-    cursor: zoom-out;
-    
-}
 
 
         

@@ -9,7 +9,8 @@
 		<title>My Projects</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+        <link href="node_modules/lightbox2/dist/css/lightbox.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -61,7 +62,7 @@
                     <header id="rpsx">
                         <center><h2><u>Rock Paper Scissor X-treme Android App</u></h2></center>
                         <p>RPS X-treme is the next evolution of your favorite juvenile game - now you can settle your petty disputes from your handheld device, or set up tournaments to determine the alpha member of your entire friend group. To be exact, RPS X-treme is an Android application that makes it possible to set up/join lobbies for rock-paper-scissors matches/tournaments, and also keeps track of a variety of player performance statistics. Players will be able to log in and make or join a lobby.</p>
-                        <a class="image fit" href="#"><img src="Projects/RPSx/RPSx.jpg" alt="RPSx" /></a>
+                        <!--<a class="image fit" href="#"><img src="Projects/RPSx/RPSx.jpg" alt="RPSx" /></a>-->
                     </header>
 
                     <p>Source Code: <a href="https://github.com/suvratjain12/RPSx-COP_4331C">GitHub</a></p>
@@ -78,32 +79,20 @@
                         <p>Following are the PCB(left) and the Schematic(right) designed by me using Eagle CAD.</p>
                         <div class="box alt">
                             <div class="row gtr-100 gtr-uniform">
-                                <!--<div class="col-6">
-                                    <a class="image fit" href="#">
-                                        <img src="Projects/Water Analogy of a Circuit/IEEE_PCB.jpeg" class="thumbnail" alt="" />
+
+                                <div class="col-6">
+                                    <a class="image fit" href="Projects/Water Analogy of a Circuit/IEEE_PCB.jpeg" data-lightbox="water_analogy">
+                                        <img src="Projects/Water Analogy of a Circuit/IEEE_PCB.jpeg" alt="" />
                                     </a>
-                                </div>-->
-                                 <div class="col-6">
-                                     <div class="container">
-                                         <input type="checkbox" id="image1_check" style="visibility:hidden">
-                                         <label for="image1_check">
-                                             <img src="Projects/Water Analogy of a Circuit/IEEE_PCB.jpeg" class="image fit" alt="" />
-                                         </label>
-                                     </div>
                                 </div>
-                                 <div class="col-6">
-                                     <div class="container">
-                                         <input type="checkbox" id="image2_check" style="opacity:0">
-                                         <label for="image2_check">
-                                             <img src="Projects/Water Analogy of a Circuit/IEEE - PCB Schematic.jpeg" class="image fit" alt="" />
-                                         </label>
-                                     </div>
-                                </div>
-                                <!--<div class="col-6">
-                                    <a class="image fit" href="#">
+
+                                <div class="col-6">
+                                    <a class="image fit" href="Projects/Water Analogy of a Circuit/IEEE - PCB Schematic.jpeg" data-lightbox="water_analogy">
                                         <img src="Projects/Water Analogy of a Circuit/IEEE - PCB Schematic.jpeg" alt="" />
                                     </a>
-                                </div>-->
+
+                                </div>
+
                             </div>
                         </div>
                     </header>
@@ -135,6 +124,7 @@
         </div>
 
 		<!-- Scripts -->
+
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -142,6 +132,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+            <script src="node_modules/lightbox2/dist/js/lightbox.js"></script>
 
 	</body>
 </html>
